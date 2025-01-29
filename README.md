@@ -1,6 +1,7 @@
 # Cryptography
 
 Includes different types of Encryption and Decryption Algorithms.
+
 Subject: Cryptography & Network security Subject code: 22CS552 Academic year: 2024-25 Assignment-1
 
 1.Implement Affine Cipher.
